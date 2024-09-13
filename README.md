@@ -21,7 +21,7 @@ Clone this repository or download the script to your system:
 ```bash
 git clone https://github.com/aganet/fail2ban-list-menu-unblock.git
 cd fail2ban-list-menu-unblock
-chmod +x unban.sh
-sudo ./unban.sh
+chmod +x fail2ban-menu-unblock.sh
+sudo ./fail2ban-menu-unblock.sh
 
 ```

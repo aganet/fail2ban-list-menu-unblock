@@ -1,4 +1,4 @@
-# Fail2Ban IP Unban Script
+# Fail2Ban IP Unban Script with menu IP jail selection
 
 This is a Bash script that allows you to easily unban IP addresses from Fail2Ban jails using a user-friendly interface powered by `whiptail`. It gathers a list of currently banned IP addresses across all active jails and presents them in a scrollable menu, making it easy to select and unban IPs from specific jails.
 
